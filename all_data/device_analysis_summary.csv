@@ -1,0 +1,11 @@
+Metric,Value
+Total RPC events,805.0
+Total unlock events,805.0
+Total resets (just_booted),245.0
+Unique reset reasons,3.0
+Average uptime (s),2020.608163265306
+Min uptime (s),6.0
+Max uptime (s),76293.0
+Mean RSRP (dBm),-93.28979591836735
+Min RSRP (dBm),-126.0
+Max RSRP (dBm),-66.0
